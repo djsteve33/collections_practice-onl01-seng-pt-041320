@@ -4,4 +4,6 @@ def sort_array_asc(array1)
 end
 
 # Question 2 
-def 
+def sort_array_desc
+  
+end
