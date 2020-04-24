@@ -35,7 +35,7 @@ end
 
 # Question 7
 def find_a(array7)
-  array7.start_with? = "a" do
+  array7 = array7.start_with? = "a" do
   
   
     
