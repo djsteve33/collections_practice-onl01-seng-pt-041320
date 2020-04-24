@@ -30,6 +30,7 @@ end
 
 # Question 6
 def kesha_maker(array6)
-  array6.each 
+  array6.each {|x| x[2] = $}
+  
   
     
