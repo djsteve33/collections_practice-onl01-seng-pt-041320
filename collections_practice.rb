@@ -29,5 +29,6 @@ def reverse_array(array5)
 end
 
 # Question 6
-def 
+def kesha_maker(array6)
+  
     
