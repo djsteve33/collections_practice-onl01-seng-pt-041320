@@ -18,4 +18,6 @@ def sort_array_char_count(array3)
 end
 
 # Question 4
-def 
+def swap_elements(array4)
+  array4.sort do |a, b|
+    
