@@ -28,4 +28,6 @@ def reverse_array(array5)
   array5.reverse
 end
 
+# Question 6
+def 
     
