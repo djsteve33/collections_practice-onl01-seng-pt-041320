@@ -4,6 +4,6 @@ def sort_array_asc(array1)
 end
 
 # Question 2 
-def sort_array_desc
-  
+def sort_array_desc(array2)
+  array2.sort!
 end
