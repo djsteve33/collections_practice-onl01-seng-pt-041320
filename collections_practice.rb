@@ -33,6 +33,8 @@ def kesha_maker(array6)
   array6.each {|x| x[2] = "$"}
 end
 
+# Question 7
+def 
   
   
     
