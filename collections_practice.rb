@@ -44,7 +44,9 @@ def sum_array(array8)
 end
 
 # Question 9
-def 
+def add_s(array9)
+  array9
+end
   
   
     
