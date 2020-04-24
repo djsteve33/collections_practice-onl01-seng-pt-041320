@@ -47,7 +47,10 @@ end
 def add_s(array9)
   array9.map do |element|
     if element != "feet"
-      
+      element + "s"
+    else
+      element
+    end
 end
   
   
