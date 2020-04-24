@@ -24,5 +24,6 @@ def swap_elements(array4)
 end
 
 # Question 5
-def 
+def reverse_array(array5)
+  
     
