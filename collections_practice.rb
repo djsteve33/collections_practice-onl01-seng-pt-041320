@@ -51,6 +51,7 @@ def add_s(array9)
     else
       element
     end
+  end
 end
   
   
