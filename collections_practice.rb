@@ -9,3 +9,6 @@ def sort_array_desc(array2)
     b <=> a 
   end
 end
+
+# Question 3
+def 
