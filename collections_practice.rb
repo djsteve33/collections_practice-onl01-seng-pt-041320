@@ -5,5 +5,6 @@ end
 
 # Question 2 
 def sort_array_desc(array2)
-  array2.sort!
+  array2.sort! do |a, b|
+    b <=> a
 end
