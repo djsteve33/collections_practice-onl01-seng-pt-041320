@@ -25,5 +25,7 @@ end
 
 # Question 5
 def reverse_array(array5)
-  array4.reverse!
+  array4.reverse
+end
+
     
