@@ -34,7 +34,8 @@ def kesha_maker(array6)
 end
 
 # Question 7
-def 
+def find_a(array7)
+  array7.start_with? = "a" do
   
   
     
