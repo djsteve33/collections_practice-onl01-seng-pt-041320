@@ -40,7 +40,7 @@ end
 
 # Question 8
 def sum_array(array8)
-  
+  array8 = 
   
   
     
