@@ -16,3 +16,6 @@ def sort_array_char_count(array3)
     a.length <=> b.length 
   end
 end
+
+# Question 4
+def 
