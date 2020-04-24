@@ -35,7 +35,7 @@ end
 
 # Question 7
 def find_a(array7)
-  array7 = array7.select {
+  array7 = array7.select {|n| n
   
   
     
