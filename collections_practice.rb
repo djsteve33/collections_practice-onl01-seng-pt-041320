@@ -39,7 +39,8 @@ def find_a(array7)
 end
 
 # Question 8
-def 
+def sum_array(array8)
+  
   
   
     
