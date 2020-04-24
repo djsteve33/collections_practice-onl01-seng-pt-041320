@@ -45,7 +45,7 @@ end
 
 # Question 9
 def add_s(array9)
-  array9
+  array9.collect do 
 end
   
   
