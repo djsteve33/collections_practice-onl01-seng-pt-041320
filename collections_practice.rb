@@ -12,5 +12,5 @@ end
 
 # Question 3
 def sort_array_char_count(array3)
-  
+  array3.sort
 end
